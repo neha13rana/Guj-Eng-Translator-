@@ -1,0 +1,5 @@
+ai4bharat-transliteration
+transformers
+torch
+git+https://github.com/neha13rana/IndicTransTokenizer.git  
+streamlit
