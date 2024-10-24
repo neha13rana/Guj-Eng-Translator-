@@ -1,5 +1,5 @@
 ai4bharat-transliteration
-transformers==4.34.0
+transformers
 fairseq==0.12.2
 torch==2.0.1
 git+https://github.com/neha13rana/IndicTransTokenizer.git  
