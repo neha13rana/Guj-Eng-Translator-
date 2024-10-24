@@ -1,6 +1,6 @@
 ai4bharat-transliteration
 transformers
-fairseq==0.12.2
+fairseq>=0.12.3
 torch==2.0.1
 git+https://github.com/neha13rana/IndicTransTokenizer.git  
 streamlit
