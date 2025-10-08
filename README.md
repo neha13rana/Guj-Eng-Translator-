@@ -27,8 +27,8 @@ A **web-based application** built using **Streamlit** that transliterates Englis
 ---
 
 ## **Tech Stack**
-- **Frontend & UI**: [Streamlit](https://streamlit.io/)  
-- **Translation Model**: [AI4Bharat IndicTrans2](https://huggingface.co/ai4bharat/indictrans2-indic-en-1B)  
+- **Frontend & UI**: [Streamlit]  
+- **Translation Model**: [AI4Bharat IndicTrans2] 
 - **Libraries & Tools**:  
   - `torch` – For model inference  
   - `transformers` – Hugging Face Transformers for sequence-to-sequence models  
